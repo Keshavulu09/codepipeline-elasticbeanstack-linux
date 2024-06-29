@@ -1,2 +1,3 @@
 # codepipeline-elasticbeanstack-linux
-simple project that deploy a frontend application on aws cloud using the services codepipeline, elastic beanstack and github 
+simple project to create a pipeline that retrieved the application from Github and deployed it 
+	to a Beanstalk environment
